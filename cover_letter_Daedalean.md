@@ -4,7 +4,7 @@ I have been following Daedalean for a long time and enjoy the progress you are m
 When I first visited your website, I was amazed by the support animals. Even though they are no longer on the site, I am sure they are doing well!
 Other topics caught my eye as well. Recently I was reading Maria Pierson's blog post titled "Designing our systems down to the hardware level" and I remembered that I do the exact same thing during my studies. I am also developing high speed deep learning algorithms on FPGA using a hardware description language.
 
-I am a part-time master's student in electrical engineering working as an embedded engineer at the Institute of Microelectronics and Embedded Systems at the University of Applied Sciences OST. My research focus is on embedded AI. 
+I am a part-time master's student in electrical engineering working as an embedded engineer at the Institute of Microelectronics and Embedded Systems at OST University of Applied Sciences. My research focus is on embedded AI. 
 During my studies, I focused on the following areas: Machine Learning/Deep Learning, Computer Vision, Embedded Software, and Digital Microelectronics.
 
 I will graduate in January 2023 with a Master of Science in Electrical Engineering from the University of Applied Sciences Eastern Switzerland and I am looking for a full-time position starting in February 2023.
@@ -15,7 +15,9 @@ Since our research interests overlap so much, I would love to collaborate with D
 
 I would be very happy to hear from you.
 
-Best Regards,
+Yours sincerely,
 
 Michael Schmid
 
+
+Translated with www.DeepL.com/Translator (free version)
